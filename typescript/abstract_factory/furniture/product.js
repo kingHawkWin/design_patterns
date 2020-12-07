@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.ModernSofa = exports.VictorianSofa = exports.ArtDecoSofa = exports.ModernTable = exports.VictorianTable = exports.ArtDecoTable = exports.ModernChair = exports.VictorianChair = exports.ArtDecoChair = void 0;
 var ArtDecoChair = /** @class */ (function () {
     function ArtDecoChair() {
@@ -100,4 +100,3 @@ var ModernSofa = /** @class */ (function () {
     return ModernSofa;
 }());
 exports.ModernSofa = ModernSofa;
-//# sourceMappingURL=product.js.map

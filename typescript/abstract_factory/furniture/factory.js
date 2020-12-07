@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.Modern = exports.Victorian = exports.ArtDeco = void 0;
 var product_1 = require("./product");
 var ArtDeco = /** @class */ (function () {
@@ -47,4 +47,3 @@ var Modern = /** @class */ (function () {
     return Modern;
 }());
 exports.Modern = Modern;
-//# sourceMappingURL=factory.js.map
