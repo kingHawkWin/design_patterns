@@ -2,19 +2,20 @@ package main
 
 import (
 	"fmt"
+
+	"kingHawkWin/pkg"
 )
 
 func main() {
-	ak47, _ := getGun("ak47")
-	musket, _ := getGun("musket")
+	ak47, _ := pkg.GunFactory("ak47")
+	musket, _ := pkg.GunFactory("musket")
 
 	printDetails(ak47)
 	printDetails(musket)
 }
 
-func printDetails(g iGun) {
-	fmt.Printf("Gun: %s", g.getName())
-	fmt.Println()
-	fmt.Printf("Power: %d", g.getPower())
+func printDetails(g pkg.IGun) {
+	fmt.Println(g.GetName())
+	fmt.Println(g.GetPower())
 	fmt.Println()
 }
