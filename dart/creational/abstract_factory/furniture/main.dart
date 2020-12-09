@@ -1,4 +1,4 @@
-import './bin/factory.dart';
+import 'bin/factory.dart';
 
 void client(Factory factory) {
   final chair = factory.createChair().chair();

@@ -1,4 +1,4 @@
-import './bin/operation.dart';
+import 'bin/operation.dart';
 
 double client(Operation operation, double a, double b) {
   return operation.createOperator(a, b);

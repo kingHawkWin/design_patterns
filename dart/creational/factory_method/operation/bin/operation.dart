@@ -1,4 +1,4 @@
-import './operators.dart';
+import 'operators.dart';
 
 abstract class Operation {
   Operators operatorFactory();

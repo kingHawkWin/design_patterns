@@ -1,4 +1,4 @@
-import './factory.dart';
+import 'factory.dart';
 
 void client(Factory factory, double shoeSize, String shirtSize) {
   Map<String, dynamic> shoe = factory.makeShoe().generate(shoeSize);
