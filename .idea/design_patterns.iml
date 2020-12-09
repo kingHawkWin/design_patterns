@@ -12,6 +12,15 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
