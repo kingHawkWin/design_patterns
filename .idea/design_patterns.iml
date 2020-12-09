@@ -3,28 +3,27 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/build" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/build" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/build" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/sport_brand/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/building/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
