@@ -35,8 +35,8 @@ function client() {
   console.log(`p1.circularReference.prototype = ${p1.circularReference.prototype}, p2.circularReference.prototype = ${p2.circularReference.prototype}`, p1.circularReference.prototype === p2.circularReference.prototype)
 
   console.log(p2.circularReference.testValue)
-  console.log(p1 === p2.__proto__)
-  console.log(p1.component === p2.component.__proto__)
+  console.log(p1 === Object.getPrototypeOf(p2))
+  console.log(p1.component === Object.getPrototypeOf(p2.component))
 }
 
 client()
