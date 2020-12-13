@@ -21,9 +21,13 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/transportation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/prototype/shape/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/prototype/shape/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/prototype/shape/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
