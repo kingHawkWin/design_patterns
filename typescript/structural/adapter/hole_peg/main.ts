@@ -8,7 +8,7 @@ const roundHoleS = new RoundHole(5)
 const roundHoleM = new RoundHole(10)
 const roundHoleL = new RoundHole(350)
 
-const roundPeg = new RoundPeg(5)
+const roundPeg = new Adapter(new RoundPeg(5))
 const squarePeg = new Adapter(new SquarePeg(5))
 const angularPeg = new Adapter(new AngularPeg(5, 5, 5))
 

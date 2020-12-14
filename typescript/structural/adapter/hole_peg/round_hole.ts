@@ -1,8 +1,7 @@
-import {RoundPeg} from "./round_peg";
 import {Peg} from "./peg";
 
 export class RoundHole implements Peg{
-  private radius: number
+  private readonly radius: number
 
   constructor(radius: number) {
     this.radius = radius

@@ -1,9 +1,9 @@
 import {Peg} from "./peg";
 
 export class AngularPeg extends Peg {
-  private a: number
-  private b: number
-  private c: number
+  private readonly a: number
+  private readonly b: number
+  private readonly c: number
 
   constructor(a: number, b: number, c: number) {
     super()

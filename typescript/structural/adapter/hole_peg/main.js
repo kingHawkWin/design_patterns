@@ -8,7 +8,7 @@ var adapter_1 = require("./adapter");
 var roundHoleS = new round_hole_1.RoundHole(5);
 var roundHoleM = new round_hole_1.RoundHole(10);
 var roundHoleL = new round_hole_1.RoundHole(350);
-var roundPeg = new round_peg_1.RoundPeg(5);
+var roundPeg = new adapter_1.Adapter(new round_peg_1.RoundPeg(5));
 var squarePeg = new adapter_1.Adapter(new square_peg_1.SquarePeg(5));
 var angularPeg = new adapter_1.Adapter(new angular_peg_1.AngularPeg(5, 5, 5));
 roundHoleS.fits(roundPeg);

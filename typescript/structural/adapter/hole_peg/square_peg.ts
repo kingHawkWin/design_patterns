@@ -1,7 +1,7 @@
 import {Peg} from "./peg";
 
 export class SquarePeg extends Peg {
-  private width: number
+  private readonly width: number
 
   constructor(width: number) {
     super()

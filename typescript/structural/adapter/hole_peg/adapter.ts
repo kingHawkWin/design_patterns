@@ -3,10 +3,11 @@ import {Peg} from "./peg";
 import {SquarePeg} from './square_peg'
 import {AngularPeg} from "./angular_peg";
 
-export class Adapter implements Peg {
-  private peg: Peg
+export class Adapter extends Peg {
+  private readonly peg: Peg
 
   constructor(peg: Peg) {
+    super()
     this.peg = peg
   }
 
