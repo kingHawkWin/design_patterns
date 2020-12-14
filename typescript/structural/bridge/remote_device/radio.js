@@ -8,10 +8,12 @@ var Radio = /** @class */ (function () {
         this.channel = Math.round(Math.random() * 100);
     }
     Radio.prototype.disable = function () {
-        return false;
+        this.able = false;
+        return this.able;
     };
     Radio.prototype.enable = function () {
-        return true;
+        this.able = true;
+        return this.able;
     };
     Radio.prototype.getChannel = function () {
         return this.channel;

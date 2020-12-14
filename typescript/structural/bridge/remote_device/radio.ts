@@ -12,11 +12,13 @@ export class Radio implements Device {
   }
 
   disable(): boolean {
-    return false;
+    this.able = false;
+    return this.able;
   }
 
   enable(): boolean {
-    return true;
+    this.able = true;
+    return this.able;
   }
 
   getChannel(): number {
