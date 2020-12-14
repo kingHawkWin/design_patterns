@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectTasksOptions">
+<<<<<<< HEAD
     <TaskOptions isEnabled="false">
       <option name="arguments" value="-w $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
@@ -25,5 +26,11 @@
         <env name="PATH" value="$GoBinDirs$" />
       </envs>
     </TaskOptions>
+=======
+    <enabled-global>
+      <option value="goimports" />
+      <option value="golangci-lint" />
+    </enabled-global>
+>>>>>>> ff0f8f96f42e3edb68aff6ab15e64aeab4313474
   </component>
 </project>

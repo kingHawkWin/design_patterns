@@ -1,0 +1,23 @@
+"use strict";
+exports.__esModule = true;
+var leaf_1 = require("./leaf");
+var client_1 = require("./client");
+var composite_1 = require("./composite");
+var simple = new leaf_1.Leaf();
+console.log('Client: I\'ve got a simple component:');
+client_1.client1(simple);
+console.log();
+var tree = new composite_1.Composite();
+var branch1 = new composite_1.Composite();
+branch1.add(new leaf_1.Leaf());
+branch1.add(new leaf_1.Leaf());
+var branch2 = new composite_1.Composite();
+branch2.add(new leaf_1.Leaf());
+tree.add(branch1);
+tree.add(branch2);
+console.log('Client: Now I\'ve got a composite tree:');
+client_1.client1(tree);
+console.log();
+console.log('Client: I don\'t need to check the components classes even when managing the tree:');
+client_1.client2(tree, simple);
+//# sourceMappingURL=main.js.map
