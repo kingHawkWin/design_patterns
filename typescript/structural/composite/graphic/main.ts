@@ -5,7 +5,7 @@ import {Circle} from "./circle";
 const imageEditor = new ImageEditor()
 
 // imageEditor.load()
-const components = []
+let components = []
 components.push(new Dot(32, 2422))
 components.push(new Circle(432, 2342, 565666))
 imageEditor.groupSelected(components)
