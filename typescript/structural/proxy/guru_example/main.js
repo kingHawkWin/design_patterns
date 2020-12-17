@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var real_subject_1 = require("./real_subject");
+var client_1 = require("./client");
+var proxy_1 = require("./proxy");
+console.log('Client: Executing the client code with a real subject:');
+var realSubject = new real_subject_1.RealSubject();
+client_1.client(realSubject);
+console.log('Client: Executing the same client code with a proxy:');
+var proxy = new proxy_1.Proxy(realSubject);
+client_1.client(proxy);
