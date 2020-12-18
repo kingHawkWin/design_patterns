@@ -1,0 +1,1 @@
+{"version":3,"file":"dog_handler.js","sourceRoot":"","sources":["dog_handler.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,uDAAmD;AAEnD;IAAgC,8BAAe;IAA/C;;IAOA,CAAC;IANQ,2BAAM,GAAb,UAAc,OAAe;QAC3B,IAAI,OAAO,KAAK,UAAU,EAAE;YAC1B,OAAO,uBAAqB,OAAS,CAAA;SACtC;QACD,OAAO,iBAAM,MAAM,YAAC,OAAO,CAAC,CAAC;IAC/B,CAAC;IACH,iBAAC;AAAD,CAAC,AAPD,CAAgC,kCAAe,GAO9C;AAPY,gCAAU"}

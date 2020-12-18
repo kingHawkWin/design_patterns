@@ -51,6 +51,12 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/decorator/man/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/decorator/man/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/decorator/man/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/facade/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/facade/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/facade/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

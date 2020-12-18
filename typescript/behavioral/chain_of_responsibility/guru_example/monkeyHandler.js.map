@@ -1,0 +1,1 @@
+{"version":3,"file":"monkeyHandler.js","sourceRoot":"","sources":["monkeyHandler.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,uDAAmD;AAEnD;IAAmC,iCAAe;IAAlD;;IAOA,CAAC;IANQ,8BAAM,GAAb,UAAc,OAAe;QAC3B,IAAI,OAAO,KAAK,QAAQ,EAAE;YACxB,OAAO,0BAAyB,OAAS,CAAA;SAC1C;QACD,OAAO,iBAAM,MAAM,YAAC,OAAO,CAAC,CAAC;IAC/B,CAAC;IACH,oBAAC;AAAD,CAAC,AAPD,CAAmC,kCAAe,GAOjD;AAPY,sCAAa"}

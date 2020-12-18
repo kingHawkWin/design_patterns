@@ -1,0 +1,1 @@
+{"version":3,"file":"squirrel_handler.js","sourceRoot":"","sources":["squirrel_handler.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,uDAAmD;AAEnD;IAAqC,mCAAe;IAApD;;IAOA,CAAC;IANQ,gCAAM,GAAb,UAAc,OAAe;QAC3B,IAAI,OAAO,KAAK,KAAK,EAAE;YACrB,OAAO,4BAA0B,OAAS,CAAA;SAC3C;QACD,OAAO,iBAAM,MAAM,YAAC,OAAO,CAAC,CAAC;IAC/B,CAAC;IACH,sBAAC;AAAD,CAAC,AAPD,CAAqC,kCAAe,GAOnD;AAPY,0CAAe"}
