@@ -57,6 +57,24 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/structural/proxy/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/operators/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/operators/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/strategy/operators/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/template_method/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/template_method/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/template_method/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/mediator/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/mediator/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/mediator/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/observer/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/observer/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/observer/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/chain_of_responsibility/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/chain_of_responsibility/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/chain_of_responsibility/guru_example/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

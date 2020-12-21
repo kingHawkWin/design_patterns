@@ -1,11 +1,11 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.ConcreteSubject = void 0;
-var ConcreteSubject = /** @class */ (function () {
-    function ConcreteSubject() {
+class ConcreteSubject {
+    constructor() {
         this.observers = [];
     }
-    ConcreteSubject.prototype.attach = function (observer) {
+    attach(observer) {
         if (!this.observers.includes(observer)) {
             console.log('ConcreteSubject: new observer attached.');
             this.observers.push(observer);
@@ -13,8 +13,8 @@ var ConcreteSubject = /** @class */ (function () {
         else {
             console.log('ConcreteSubject: already attached.');
         }
-    };
-    ConcreteSubject.prototype.detach = function (observer) {
+    }
+    detach(observer) {
         if (this.observers.includes(observer)) {
             this.observers.splice(this.observers.indexOf(observer), 1);
             console.log('ConcreteSubject: observer detached.');
@@ -22,19 +22,16 @@ var ConcreteSubject = /** @class */ (function () {
         else {
             console.log('ConcreteSubject: observer does not exist, so can not detach.');
         }
-    };
-    ConcreteSubject.prototype.notify = function () {
-        for (var _i = 0, _a = this.observers; _i < _a.length; _i++) {
-            var observer = _a[_i];
+    }
+    notify() {
+        for (const observer of this.observers) {
             observer.update(this);
         }
-    };
-    ConcreteSubject.prototype.bloc = function () {
+    }
+    bloc() {
         this.state = Math.round(Math.random() * 12);
-        console.log("ConcreteSubject: state is " + this.state);
+        console.log(`ConcreteSubject: state is ${this.state}`);
         this.notify();
-    };
-    return ConcreteSubject;
-}());
+    }
+}
 exports.ConcreteSubject = ConcreteSubject;
-//# sourceMappingURL=concreteSubject.js.map
