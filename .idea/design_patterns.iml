@@ -87,6 +87,9 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/command/guru_example/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/command/guru_example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/command/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/iterator/guru_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/iterator/guru_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/iterator/guru_example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
