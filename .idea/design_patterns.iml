@@ -48,6 +48,9 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/builder/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/20211118/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/20211118/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/20211118/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/factory_method/operation/build" />
