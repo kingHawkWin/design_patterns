@@ -36,6 +36,9 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/visitor/guru_example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/visitor/guru_example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/behavioral/visitor/guru_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/20210120/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/20210120/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/20210120/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/creational/abstract_factory/furniture/build" />
